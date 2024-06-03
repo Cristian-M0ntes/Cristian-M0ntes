@@ -1,8 +1,8 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/Cristian-M0ntes/Imagenes/main/banner-c0dec3r0.png" alt="image coulden`t load" width="500">
+<img src="https://raw.githubusercontent.com/Cristian-M0ntes/Imagenes/main/banner-c0dec3r0.png" alt="image coulden`t load" width="700">
 
 <!-- Linea con movimiento 1 -->
-<img src="https://c.tenor.com/tP7Xxrv5w5gAAAAC/tenor.gif " height="3"><img src="https://c.tenor.com/tP7Xxrv5w5gAAAAC/tenor.gif " height="3"><img src="https://c.tenor.com/tP7Xxrv5w5gAAAAC/tenor.gif " height="3"><img src="https://c.tenor.com/tP7Xxrv5w5gAAAAC/tenor.gif " height="3"><img src="https://c.tenor.com/tP7Xxrv5w5gAAAAC/tenor.gif " height="3"><img src="https://c.tenor.com/tP7Xxrv5w5gAAAAC/tenor.gif " height="3">
+<img src="https://c.tenor.com/tP7Xxrv5w5gAAAAC/tenor.gif " height="3"><img src="https://c.tenor.com/tP7Xxrv5w5gAAAAC/tenor.gif " height="3"><img src="https://c.tenor.com/tP7Xxrv5w5gAAAAC/tenor.gif " height="3"><img src="https://c.tenor.com/tP7Xxrv5w5gAAAAC/tenor.gif " height="3"><img src="https://c.tenor.com/tP7Xxrv5w5gAAAAC/tenor.gif " height="3">
 
 <!-- Mensaje about my self -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+mind+;This+repo+is+for+store+everything+;About+my+self+)](https://git.io/typing-svg)
