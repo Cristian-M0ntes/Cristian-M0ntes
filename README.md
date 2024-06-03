@@ -11,57 +11,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BF7D6&random=false&width=435&lines=%F0%9F%92%BB+Tech+Stack%3A)](https://git.io/typing-svg)
 
-[Python .Net Apache MySQL](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![image](https://github.com/Cristian-M0ntes/Cristian-M0ntes/assets/79603479/d052db19-5fc8-44db-a588-310a59d66f48)
+![image](https://github.com/Cristian-M0ntes/Cristian-M0ntes/assets/79603479/c076502d-1610-4e60-9e94-45e59848a32d)
+![image](https://github.com/Cristian-M0ntes/Cristian-M0ntes/assets/79603479/78777972-52b8-464a-9d92-33742c6b5a4c)
+![image](https://github.com/Cristian-M0ntes/Cristian-M0ntes/assets/79603479/b5bb4525-538a-48fb-99e6-ad056dfa5d9f)
 
 
 
-<!--
-**Cristian-M0ntes/Cristian-M0ntes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Github Statts -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BF7D6&random=false&width=435&lines=%F0%9F%93%8A+GitHub+Stats%3A)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://github.com/Cristian-M0ntes/Cristian-M0ntes/assets/79603479/387258d2-8619-4a0e-8442-d76cdcb73a93)
 
 
 
-<!--
-# Proyecto Ejemplo
-
-Este es un proyecto de ejemplo que muestra cómo estructurar un README.md en GitHub.
-
-## Tabla de Contenidos
-1. [Instalación](#instalación)
-2. [Uso](#uso)
-3. [Ejemplos](#ejemplos)
-4. [Contribución](#contribución)
-5. [Licencia](#licencia)
-
-## Instalación
-Para instalar este proyecto, sigue estos pasos:
-
-1. Clona el repositorio.
-2. Ejecuta `npm install`.
-
-## Uso
-Aquí se muestra cómo puedes utilizar el proyecto:
-
-```javascript
-function ejemplo() {
-  // Código de ejemplo
-}
 
 
 
-Puedes copiar este ejemplo y pegarlo en tu archivo README.md. Esto te dará una idea de cómo se verá el contenido, y puedes personalizarlo según las necesidades de tu proyecto. Recuerda que puedes agregar imágenes, enlaces y otros contenidos multimedia para hacer tu README más atractivo e informativo.
 
-Espero que este ejemplo te sea útil. Si necesitas más ayuda, no dudes en preguntar.  
-
--->
